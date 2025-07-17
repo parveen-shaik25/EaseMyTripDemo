@@ -1,0 +1,192 @@
+10:37:39.419 [main] INFO  - ***** TC_01-Airport Pickup cabs*****
+10:37:39.744 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:37:39.748 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:37:39.897 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:37:39.900 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:37:39.900 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:37:39.902 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:37:39.902 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:37:39.903 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:37:39.917 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:37:39.919 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:37:39.926 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:37:39.927 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:37:39.928 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:37:39.929 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:37:39.930 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:37:39.930 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+10:37:39.978 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:37:39.980 [main] TRACE - Resolving type for handle themefd26doctype
+10:37:40.027 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+10:37:40.031 [main] TRACE - Resolving type for handle ctstylesheet4257type
+10:37:40.037 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+10:37:40.039 [main] TRACE - Resolving type for handle ctfonts6623type
+10:37:40.041 [main] TRACE - Resolving type for handle ctfont14d8type
+10:37:40.048 [main] TRACE - Resolving type for handle ctfills2c6ftype
+10:37:40.050 [main] TRACE - Resolving type for handle ctfill550ctype
+10:37:40.052 [main] TRACE - Resolving type for handle ctborders0d66type
+10:37:40.054 [main] TRACE - Resolving type for handle ctborderf935type
+10:37:40.057 [main] TRACE - Resolving type for handle ctcellxfs1322type
+10:37:40.059 [main] TRACE - Resolving type for handle ctxf97f7type
+10:37:40.060 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+10:37:40.062 [main] TRACE - Resolving type for handle ctdxfsb26atype
+10:37:40.064 [main] TRACE - Resolving type for handle cttablestyles872ftype
+10:37:40.066 [main] TRACE - Resolving type for handle sstf81fdoctype
+10:37:40.070 [main] TRACE - Resolving type for handle ctsst44f3type
+10:37:40.075 [main] TRACE - Resolving type for handle ctrsta472type
+10:37:40.091 [main] TRACE - Resolving type for handle workbookec17doctype
+10:37:40.095 [main] TRACE - Resolving type for handle ctworkbook83c3type
+10:37:40.097 [main] TRACE - Resolving type for handle ctsheets49fdtype
+10:37:40.099 [main] TRACE - Resolving type for handle ctsheet4dbetype
+10:37:40.100 [main] TRACE - Resolving type for handle strelationshipid1e94type
+10:37:40.102 [main] TRACE - Resolving type for handle worksheetf539doctype
+10:37:40.107 [main] TRACE - Resolving type for handle ctworksheet530dtype
+10:37:40.115 [main] TRACE - Resolving type for handle ctcols627ctype
+10:37:40.119 [main] TRACE - Resolving type for handle ctcola95ftype
+10:37:40.136 [main] TRACE - Resolving type for handle ctsheetdata8408type
+10:37:40.139 [main] TRACE - Resolving type for handle ctrowdd39type
+10:37:40.144 [main] TRACE - Resolving type for handle ctcell842btype
+10:37:40.148 [main] TRACE - Resolving type for handle stcellrefe4e0type
+10:37:40.160 [main] TRACE - Resolving type for handle stxstringf179type
+10:37:40.162 [main] TRACE - Resolving type for handle stcelltypebf95type
+10:37:56.425 [main] INFO  - clicked on Pickup
+10:37:56.426 [main] INFO  - entering data...
+10:38:19.468 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:19.471 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:38:20.223 [main] INFO  - displayed data
+10:38:20.231 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+10:38:20.237 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+10:38:20.240 [main] TRACE - Resolving type for handle stref90a2type
+10:38:20.253 [main] TRACE - Resolving type for handle propertiesee84doctype
+10:38:20.255 [main] TRACE - Resolving type for handle ctproperties3f10type
+10:38:20.260 [main] TRACE - Resolving type for handle properties288cdoctype
+10:38:20.262 [main] TRACE - Resolving type for handle ctproperties2c18type
+10:38:20.274 [main] DEBUG - Save content types part
+10:38:20.315 [main] DEBUG - Save package relationships
+10:38:20.318 [main] DEBUG - Save part 'docProps/app.xml'
+10:38:20.318 [main] DEBUG - Save part 'docProps/core.xml'
+10:38:20.321 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:38:20.322 [main] DEBUG - Save part 'xl/styles.xml'
+10:38:20.322 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+10:38:20.322 [main] DEBUG - Save part 'xl/workbook.xml'
+10:38:20.324 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:38:20.324 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+10:38:20.424 [main] INFO  - ***** TC_02-Airport Drop cabs*****
+10:38:20.434 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:20.435 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:38:35.405 [main] INFO  - clicked on Drop
+10:38:35.406 [main] INFO  - entering data...
+10:38:55.278 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:55.279 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:38:55.695 [main] INFO  - displayed data
+10:38:55.705 [main] DEBUG - Save content types part
+10:38:55.706 [main] DEBUG - Save package relationships
+10:38:55.707 [main] DEBUG - Save part 'docProps/app.xml'
+10:38:55.708 [main] DEBUG - Save part 'docProps/core.xml'
+10:38:55.709 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:38:55.710 [main] DEBUG - Save part 'xl/styles.xml'
+10:38:55.710 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+10:38:55.711 [main] DEBUG - Save part 'xl/workbook.xml'
+10:38:55.713 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:38:55.713 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+10:38:55.767 [main] INFO  - ***** TC_03-Outstation OneWay Trip cabs*****
+10:39:11.646 [main] INFO  - entering data...
+10:39:29.242 [main] INFO  - entered data and clicked on search
+10:39:31.477 [main] INFO  - displayed data
+10:39:31.693 [main] INFO  - Outstation OneWay Trip TC completed
+10:39:46.801 [main] INFO  - ***** TC_04-Outstation Round Trip cabs*****
+10:39:47.026 [main] INFO  - entering data...
+10:40:03.285 [main] INFO  - entered data and clicked on search
+10:40:04.863 [main] INFO  - displayed data
+10:40:05.086 [main] INFO  - Outstation Round Trip TC completed
+10:40:05.100 [main] INFO  - ***** TC_05-Hourly cabs*****
+10:40:20.646 [main] INFO  - entering data...
+10:40:42.557 [main] INFO  - entered data and clicked on search
+10:40:42.990 [main] INFO  - displayed data
+10:40:43.160 [main] INFO  - Hourly  cabs TC completed
+10:40:43.173 [main] INFO  - ***** TC_06-Activities Section Field Level*****
+10:40:59.001 [main] INFO  - entering partial data and checking the field level functionality
+10:41:00.961 [main] INFO  - Activites Field level TC completed
+10:41:00.961 [main] INFO  - ***** TC_07-Activities Section Functional Level*****
+10:41:00.962 [main] INFO  - entering data...
+10:41:57.476 [main] INFO  - entered data and clicked on search
+10:41:58.357 [main] INFO  - displayed data
+10:41:58.704 [main] INFO  - Activities Functional Level TC completed
+10:41:58.719 [main] INFO  - ***** TC_08-Hotels Functionality Check*****
+10:42:15.473 [main] INFO  - entering data...
+10:42:32.789 [main] INFO  - entered data and clicked on search
+10:42:36.309 [main] INFO  - displayed data
+10:42:36.578 [main] INFO  - Hotels TC completed
+10:42:36.596 [main] INFO  - ***** TC_09-validating email field in GiftCards Section*****
+10:42:36.596 [main] INFO  - ***** TC_10-validating mobile number field in GiftCards Section*****
+10:43:08.883 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:43:08.884 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:43:08.884 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:43:08.898 [main] TRACE - Resolving type for handle cthyperlinks6416type
+10:43:08.900 [main] TRACE - Resolving type for handle cthyperlink0c85type
+10:43:08.908 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+10:43:08.911 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+10:43:24.596 [main] INFO  - entering data...
+10:43:25.366 [main] INFO  - validating fields...
+10:43:26.012 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:43:26.014 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:43:26.015 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:43:26.033 [main] INFO  - generating Screenshots
+10:43:26.193 [main] TRACE - Resolving type for handle stfontid9d63type
+10:43:26.195 [main] TRACE - Resolving type for handle stfillida097type
+10:43:26.197 [main] TRACE - Resolving type for handle stborderid1a80type
+10:43:26.200 [main] TRACE - Resolving type for handle ctcolord2c2type
+10:43:26.204 [main] TRACE - Resolving type for handle ctpatternfill7452type
+10:43:26.207 [main] TRACE - Resolving type for handle stpatterntype7939type
+10:43:26.215 [main] DEBUG - Save content types part
+10:43:26.217 [main] DEBUG - Save package relationships
+10:43:26.218 [main] DEBUG - Save part 'docProps/app.xml'
+10:43:26.219 [main] DEBUG - Save part 'docProps/core.xml'
+10:43:26.220 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:43:26.220 [main] DEBUG - Save part 'xl/styles.xml'
+10:43:26.220 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+10:43:26.221 [main] DEBUG - Save part 'xl/workbook.xml'
+10:43:26.222 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:43:26.224 [main] INFO  - Giftcards TC completed
+10:43:26.241 [main] INFO  - ***** TC_09-validating email field in GiftCards Section*****
+10:43:26.241 [main] INFO  - ***** TC_10-validating mobile number field in GiftCards Section*****
+10:43:57.675 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:43:57.676 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:43:57.678 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:44:13.151 [main] INFO  - entering data...
+10:44:14.002 [main] INFO  - validating fields...
+10:44:14.392 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:44:14.393 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:44:14.394 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:44:14.411 [main] INFO  - generating Screenshots
+10:44:14.575 [main] DEBUG - Save content types part
+10:44:14.577 [main] DEBUG - Save package relationships
+10:44:14.578 [main] DEBUG - Save part 'docProps/app.xml'
+10:44:14.579 [main] DEBUG - Save part 'docProps/core.xml'
+10:44:14.580 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:44:14.581 [main] DEBUG - Save part 'xl/styles.xml'
+10:44:14.581 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+10:44:14.582 [main] DEBUG - Save part 'xl/workbook.xml'
+10:44:14.584 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:44:14.587 [main] INFO  - Giftcards TC completed
+10:44:14.604 [main] INFO  - ***** TC_09-validating email field in GiftCards Section*****
+10:44:14.604 [main] INFO  - ***** TC_10-validating mobile number field in GiftCards Section*****
+10:44:46.715 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:44:46.716 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:44:46.717 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:45:01.746 [main] INFO  - entering data...
+10:45:02.506 [main] INFO  - validating fields...
+10:45:02.938 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:45:02.939 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:45:02.939 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:45:02.947 [main] INFO  - generating Screenshots
+10:45:02.956 [main] DEBUG - Save content types part
+10:45:02.957 [main] DEBUG - Save package relationships
+10:45:02.958 [main] DEBUG - Save part 'docProps/app.xml'
+10:45:02.959 [main] DEBUG - Save part 'docProps/core.xml'
+10:45:02.960 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:45:02.960 [main] DEBUG - Save part 'xl/styles.xml'
+10:45:02.960 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+10:45:02.961 [main] DEBUG - Save part 'xl/workbook.xml'
+10:45:02.962 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:45:02.964 [main] INFO  - Giftcards TC completed
